@@ -9,7 +9,9 @@ body{
     background-color: var(--cor-de-dundo);
 }
 header{
-    display: block;
+    display: flex;
+    padding: auto;
+    justify-self: start;
     background-color: var(--cor-fundo2);
 }
 .container{
