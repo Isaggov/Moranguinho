@@ -26,4 +26,8 @@ header{
     display: flex;
     justify-content: center;
 }
+.h2{
+    width: 25px;
+    padding: 10px;
+}
 
