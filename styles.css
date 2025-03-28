@@ -12,7 +12,7 @@ header{
     display: block;
     background-color: var(--cor-fundo2);
 }
-#container{
+.container{
     background-color: var(--botao);
 }
 
