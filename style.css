@@ -6,10 +6,10 @@
 }
 
 .body{
-    color: #FFEDFA;
+ background-color: #FFEDFA;
 }
 .header{
-    display: flex;
+    display: block;
     color: #DE3163;
 
 
