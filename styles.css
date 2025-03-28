@@ -5,8 +5,14 @@
     --detalhes: #CCDF92;
 }
 
+.body{
+    background-color: var(--cor-de-dundo);
+}
 .header{
     display: block;
-    color: #E195AB;
+    background-color: var(--cor-fundo2);
+}
+.container{
+    background-color: var(--botao);
 }
 
