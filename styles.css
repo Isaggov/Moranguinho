@@ -15,7 +15,7 @@ header{
     background-color: var(--cor-fundo2);
 }
 .container{
-    display: block;
+    display: flex;
     border-radius:10px ;
     background-color: var(--botao);
 }
