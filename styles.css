@@ -14,7 +14,7 @@ header{
     justify-self: start;
     background-color: var(--cor-fundo2);
 }
-.container{
+#container{
     margin: 10px;
     display: flex;
     border-radius:10px ;
