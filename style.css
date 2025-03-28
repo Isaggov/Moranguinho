@@ -1,8 +1,8 @@
 :root {
-    --branco-principal: #FFEDFA;
-    --cinza-secundario: #DE3163;
-    --botao-azul: #E195AB;
-    --cor-de-fundo: #CCDF92;
+    --cor-de-dundo: #FFEDFA;
+    --botao: #DE3163;
+    --cor-fundo2: #E195AB;
+    --detalhes: #CCDF92;
 }
 
 .body{
