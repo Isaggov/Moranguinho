@@ -16,7 +16,7 @@ header{
 }
 .container{
     display: block;
-    border-radius: ;
+    border-radius:10px ;
     background-color: var(--botao);
 }
 
