@@ -5,10 +5,12 @@
     --cor-de-fundo: #CCDF92;
 }
 
+.body{
+    color: #FFEDFA;
+}
 .header{
     display: flex;
-    
-background-color: #DE3163;
+    color: #DE3163;
 
 
 }
