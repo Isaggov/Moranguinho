@@ -6,6 +6,8 @@
 }
 
 .header{
+    display: flex;
+    
 background-color: #DE3163;
 
 
