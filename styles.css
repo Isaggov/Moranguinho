@@ -20,4 +20,9 @@ header{
     border-radius:10px ;
     background-color: var(--botao);
 }
+.h1{
+    width: 30px;
+    display: flex;
+    justify-content: center;
+}
 
