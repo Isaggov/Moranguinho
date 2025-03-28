@@ -10,7 +10,7 @@ body{
 }
 header{
     display: flex;
-    padding: auto;
+    
     justify-self: start;
     background-color: var(--cor-fundo2);
 }
