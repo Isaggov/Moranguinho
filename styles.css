@@ -10,7 +10,7 @@ body{
 }
 header{
     display: flex;
-    
+    width:100%;
     justify-self: start;
     background-color: var(--cor-fundo2);
 }
