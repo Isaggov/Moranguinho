@@ -25,6 +25,7 @@ header{
     margin-bottom: 30px;
 }
 .h1{
+    display: flex;
     width: 30px;
     display: flex;
     justify-content: center;
