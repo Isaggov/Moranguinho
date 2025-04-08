@@ -37,6 +37,7 @@ button{
     background-color: var(--botao);
     display: flex;
     font-size: medium;
+    border: none;
 }
 
 button:hover {
