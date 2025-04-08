@@ -29,5 +29,9 @@ header{
     display: flex;
     justify-content: center;
 }
-
+.button{
+    background-color: var(--botao);
+    display: flex;
+    font-size: medium;
+}
 
