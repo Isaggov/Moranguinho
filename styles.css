@@ -66,3 +66,7 @@ menu-disciplina{
 display: inline-block;
 width: 20%;
 }
+.botao{
+    cursor: pointer;
+    font-size: 2rem;
+}
