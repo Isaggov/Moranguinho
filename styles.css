@@ -20,17 +20,13 @@ header{
     border-radius:10px ;
     background-color: var(--botao);
     padding: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 .h1{
     width: 30px;
     display: flex;
     justify-content: center;
 }
-.h2{
-    display: flex;
-    margin: 10px;
-    justify-content: center;
-    width: 100%;
-    padding: 20px;
-}
+
 
