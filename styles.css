@@ -38,10 +38,11 @@ button{
     font-size: medium;
     border: none;
     height: 60px;
-    width: 100px;
+    width: 130px;
     align-items: center;
     justify-content: space-around;
     border-radius: 10px;
+    font-size: large;
 }
 
 button:hover {
