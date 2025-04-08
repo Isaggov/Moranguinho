@@ -32,6 +32,9 @@ header{
     display: flex;
     justify-content: center;
 }
+button a{
+    color: black;
+}
 button{
     background-color: var(--botao);
     display: flex;
