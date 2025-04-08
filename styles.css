@@ -34,6 +34,7 @@ header{
 }
 button a{
     color: black;
+    cursor: auto;
 }
 button{
     background-color: var(--botao);
