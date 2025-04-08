@@ -12,10 +12,14 @@ body{
 header{
     display: flex;
     width:100%;
+    justify-content: center;
     justify-self: start;
     background-color: var(--cor-fundo2);
     justify-content: space-around;
     align-items: center;
+    padding: 1rem;
+    position: relative;
+
 }
 #container{
     margin: 10px;
