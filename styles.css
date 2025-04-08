@@ -35,7 +35,6 @@ header{
 button{
     background-color: var(--botao);
     display: flex;
-    font-size: medium;
     border: none;
     height: 60px;
     width: 130px;
