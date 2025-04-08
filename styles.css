@@ -62,4 +62,7 @@ footer{
     margin: 0%;
 }
 
-
+menu-disciplina{
+display: inline-block;
+width: 20%;
+}
