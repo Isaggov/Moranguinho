@@ -36,4 +36,7 @@ button{
     display: flex;
     font-size: medium;
 }
+footer{
+    background-color: var(--detalhes);
+}
 
