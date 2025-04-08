@@ -1,12 +1,12 @@
 :root {
-    --cor-de-dundo: #FFEDFA;
+    --cor-de-fundo: #FFEDFA;
     --botao: #DE3163;
     --cor-fundo2: #E195AB;
     --detalhes: #CCDF92;
 }
 
 body{
-    background-color: var(--cor-de-dundo);
+    background-color: var(--cor-de-fundo);
 }
 header{
     display: flex;
@@ -20,8 +20,8 @@ header{
     border-radius:10px ;
     background-color: var(--botao);
     padding: 25px;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .h1{
     width: 30px;
