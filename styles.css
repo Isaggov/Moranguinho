@@ -70,10 +70,16 @@ width: 20%;
     cursor: pointer;
     font-size: 2rem;
     background: none;
-    background-color: var(--detalhes);
-    border-radius: 10px;
     padding: 1.05rem 1.05rem;
-    color: black;
+   
+}
+#menu-toggle{
+    display: none;
+}
+.lista-vertical{
+    display: none;
+    position: absolute;
+    
 }
 
 
