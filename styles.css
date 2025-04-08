@@ -79,7 +79,7 @@ width: 20%;
 .lista-vertical{
     display: none;
     position: absolute;
-    
+    background-color: var(--detalhes);
 }
 
 
