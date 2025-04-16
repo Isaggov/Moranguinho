@@ -108,7 +108,7 @@ lista-vertical a{
 .lista-vertical a:hover{
     background-color: var(--cor-fundo2);
 }
-#menu-toggle:checked ~ .lista-vertical{
+#menu-toggle:checked ~ .lista-vertical:hover{
     display: block;
 }
 #menu-toggle:checked + .botao{
