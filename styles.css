@@ -91,7 +91,7 @@ lista-vertical{
     display: none;
     position: absolute;
     background-color: var(--detalhes);
-    box-shadow: 0 2px 5px var(--detalhes);
+    box-shadow: 8 2px 5px var(--detalhes);
     min-width: 190px;
     z-index: 1;
     left: 1rem;
